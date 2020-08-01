@@ -1,0 +1,5 @@
+[user]
+	name = Jason Taylor
+	email = jason@git.training
+[core]
+	editor = code -w
